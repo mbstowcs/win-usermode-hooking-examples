@@ -1,5 +1,7 @@
 # User‑mode hooking methods
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This repository demonstrates four classic techniques for intercepting API calls
 in user mode **without modifying any executable file on disk**. All examples
 target `MessageBoxA` from `user32.dll`.
